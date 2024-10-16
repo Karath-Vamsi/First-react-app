@@ -24,7 +24,10 @@ const App = () => {
     return (
         <div className='app'>
             <h1 id='title'>Movie Database</h1>
-            <p id='opening'>This is an extensive movie library where you can search and find movies spanning decades. Find titles, posters, release dates and much more. </p>
+            <div id='opening'>
+                <p>This is an extensive movie library where you can search and find movies spanning decades. Find titles, posters, release dates and much more. </p>
+            </div>
+            
 
             <div className='search'>
                 <input 
