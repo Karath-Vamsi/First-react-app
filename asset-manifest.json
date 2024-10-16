@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie_database_app/static/css/main.a874d746.css",
+    "main.js": "/movie_database_app/static/js/main.32f11825.js",
+    "index.html": "/movie_database_app/index.html",
+    "static/media/search.svg": "/movie_database_app/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.a874d746.css.map": "/movie_database_app/static/css/main.a874d746.css.map",
+    "main.32f11825.js.map": "/movie_database_app/static/js/main.32f11825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a874d746.css",
+    "static/js/main.32f11825.js"
+  ]
+}
